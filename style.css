@@ -1,0 +1,76 @@
+body {
+  background-color: antiquewhite;
+}
+
+.box{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QTexfZcLKc1fMn80RzJdsnpqmEWBFUuL4w&usqp=CAU);
+  margin-top: 20px 200px 200px 20px;
+  padding: 10px 150px 10px 150px;
+  border-radius: 20px;
+}
+
+h1{
+  color: black;
+  font-size: 36px;
+  font-family: times, arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  font-family: verdana, arial, sans-serif;
+}
+
+h3{
+  text-decoration: underline;
+  font-family: verdana, arial, sans-serif;
+}
+
+h4{
+  font-family: verdana, arial, sans-serif;
+}
+
+.header{
+  padding-left: auto;
+  margin-left: auto;
+  line-height: 50%;
+  text-align: center;
+}
+
+.intro{
+  padding-left: auto;
+  margin-left: auto;
+}
+
+.experience{
+  display: block;
+  margin: 10px 10px 10px 10px;
+  padding: 0px 10px 10px 10px;
+  line-height: 1.2;
+  border-radius: 10px;
+  background-color: floralwhite;
+  text-align: left;
+}
+
+.education{
+  padding: 0px 10px 10px 10px;
+  line-height: 1.2;
+  border-radius: 10px;
+  background-color: floralwhite;
+}
+
+IMG.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  border-radius: 20px;
+}
+
+.footer{
+  background-color: floralwhite;
+  text-align: center;
+  border-radius: 20px;
+}
